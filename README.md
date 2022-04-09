@@ -1,17 +1,23 @@
 # Fruit Basket - Java Spring RESTFULL API
 
 ## How to build
-
 ```./gradlew clean build```
 
-## How to test
-
+##  Test Details:
+###How to test
 ```./gradlew test```
+
+###Unit test:
+   ``` * Service test```
+   ``` * Controller test```
+###Component test
 
 ## Swagger URL
 
 ```http://localhost:8080/swagger-ui.html```
 
+### Docker File:
+``` Dockerfile ```
 ## API Description
 
 ##### Base root url = "/api/v1/";
